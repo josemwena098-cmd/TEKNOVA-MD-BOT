@@ -1,0 +1,5 @@
+allowBuilds:
+  '@whiskeysockets/baileys': true
+  ffmpeg-static: true
+  protobufjs: set this to true or false
+  sharp: true

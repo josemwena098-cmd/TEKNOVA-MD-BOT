@@ -1,4 +1,4 @@
-# WhatsApp Automation Tool - OLD-STUDIO
+# WhatsApp Automation Tool - TEKNOVA
 
 Professional WhatsApp Automation Tool with improved two-stage dashboard.
 
@@ -128,10 +128,10 @@ Please reply if you receive this.
 
 ## Branding
 
-Powered by **OLD-STUDIO**
+Powered by **TEKNOVA**
 
-[Join WhatsApp Channel](https://whatsapp.com/channel/0029VavHzv259PwTIz1XxJ09)
+[Join WhatsApp Channel]( https://whatsapp.com/channel/0029VbE20aLKbYMSVlfmpr22)
 
 ## License
 
-For OLD-STUDIO use only.
+For TEKNOVA use only.
