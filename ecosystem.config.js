@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: "old-studio-bot",
+    name: "teknova-bot",
     script: "./index.js",
     watch: false,
     autorestart: true,
